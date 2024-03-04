@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG5QpvG3+ivcv7kr6SuYGSYp5xLiIrGyffCuQBdUBS2EVFBXfBuDzPSeAOtLMnVvkSM9mfZE9j6D5soz5mlNBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aatiwari\\Downloads\\Portfolio\\PortfolioAadi\\PortfolioAadi\\PortfolioAadi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aatiwari\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\aatiwari\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\aatiwari\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
